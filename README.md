@@ -1,2 +1,2 @@
 # NSGAII
-NSGA II python inplementation
+NSGA II implementation for Python
